@@ -1,0 +1,19 @@
+{
+  "1608c7e6af7": {
+    "backgroundType": "null",
+    "backgroundImage": "",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  },
+  "1609167f135": {
+    "backgroundType": "user",
+    "backgroundColor": "#161515",
+    "backgroundAlpha": "60",
+    "guideLinesEnabled": false
+  }
+}

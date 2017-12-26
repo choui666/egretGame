@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="startScreenExml" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="397" height="298" x="-184.35" y="-108.69" anchorOffsetX="-187.35" anchorOffsetY="-110.69" visible="false" locked="true"/>
+	<e:Image source="plane_json.game_bg" x="-0.33" y="0" anchorOffsetY="0" height="100%" anchorOffsetX="0" width="100%" locked="true"/>
+	<e:Image source="plane_json.logo" x="176" y="77" anchorOffsetX="0" width="273" anchorOffsetY="0" height="57" locked="true"/>
+	<e:Image source="plane_json.user_airplane_0" x="245.17" y="196" locked="true"/>
+	<e:Image id="classicalModel" source="plane_json.button_normal" x="207.17" y="441" anchorOffsetX="0" width="213" anchorOffsetY="0" height="53" scale9Grid="29,4,50,62" locked="true"/>
+	<e:Label id="classicalModelLabel" text="经典模式" x="257.17" y="450" anchorOffsetX="0" width="125" textColor="0x050404" fontFamily="KaiTi" anchorOffsetY="0" height="44" locked="true"/>
+	<e:Image source="plane_json.settings" x="449" y="1054" locked="true"/>
+	<e:Image source="plane_json.sound_enable" x="552" y="1054" locked="true"/>
+</e:Skin>

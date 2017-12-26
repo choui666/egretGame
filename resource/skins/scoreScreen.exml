@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="scoreScreenExml" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="638" height="1134" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x0a0a0a" fillAlpha="0.6" locked="true"/>
+	<e:Image id="restartButton" source="plane_json.button_normal" x="182" y="568" scale9Grid="30,3,45,64" anchorOffsetX="0" width="285" locked="true"/>
+	<e:Label id="scoreLabel" text="0" x="235" y="444" anchorOffsetX="0" width="191" anchorOffsetY="0" height="64" textColor="0xffffff" verticalAlign="middle" textAlign="center" locked="true"/>
+	<e:Label id="restartLabel" text="重新开始" x="213" y="578" anchorOffsetX="0" width="211" anchorOffsetY="0" height="51" textColor="0x191818" fontFamily="Microsoft JhengHei" verticalAlign="middle" textAlign="center" bold="true" locked="true"/>
+	<w:Config id="1609167f135"/>
+</e:Skin>
